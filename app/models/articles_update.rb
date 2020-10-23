@@ -1,0 +1,2 @@
+class ArticlesUpdate < ApplicationRecord
+end
